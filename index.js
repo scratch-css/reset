@@ -1,2 +1,3 @@
 'use strict'
-require('./lib/index.css')
+require('@scratch-css/scratch')
+require('./index.css')
