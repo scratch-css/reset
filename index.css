@@ -80,11 +80,6 @@ input::-webkit-inner-spin-button {
 ul {
   margin: 0;
   padding: 0;
-
-  &:not(.list-bullet) {
-    list-style: none;
-    padding-left: 1em;
-  }
 }
 
 article,
